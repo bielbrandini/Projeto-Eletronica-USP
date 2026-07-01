@@ -29,10 +29,10 @@ https://www.falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0l3BWEDoE4DMAWATKhl0
 //video
 
 ## Alunos
-Adilson Armando Miguel NºUSP: 17379918
-Gabriel Galli Brandini NºUSP: 16985392
-Mateus Augusto Coutinho Rezende NºUSP: 15753450
-Pedro Iori Garcia NºUSP: 17839261
+-Adilson Armando Miguel NºUSP: 17379918
+-Gabriel Galli Brandini NºUSP: 16985392
+-Mateus Augusto Coutinho Rezende NºUSP: 15753450
+-Pedro Iori Garcia NºUSP: 17839261
 
 ## Agradecimentos
 Agradecer ao professor Simões pelo auxilio no aprendizado e no precesso de elaboração do projeto em questão!
